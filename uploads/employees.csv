@@ -1,0 +1,501 @@
+EmployeeID,FirstName,LastName,Age,Gender,Department,JobTitle,City,Country,HireDate,Salary,Email,PerformanceRating,RemoteWorker
+EMP0001,Kenneth,Davis,36,Male,Engineering,DevOps Engineer,Toronto,Canada,2013-11-24,177964,kenneth.davis1@company.com,2.3,No
+EMP0002,John,Johnson,54,Other,Sales,Account Manager,Toronto,Canada,2010-09-07,177853,john.johnson2@company.com,3.3,No
+EMP0003,Emily,Moore,43,Female,Engineering,Senior Software Engineer,Berlin,Germany,2014-04-25,123236,emily.moore3@company.com,2.3,No
+EMP0004,Michael,Thompson,24,Other,Operations,Logistics Coordinator,Vancouver,Canada,2024-09-04,134230,michael.thompson4@company.com,2.2,No
+EMP0005,Sneha,Reddy,26,Male,R&D,Data Scientist,Manchester,UK,2017-05-03,96024,sneha.reddy5@company.com,4.6,No
+EMP0006,Sarah,Robinson,44,Male,Operations,Operations Analyst,Mumbai,India,2018-12-22,53717,sarah.robinson6@company.com,3.8,Yes
+EMP0007,Paul,Thomas,39,Other,Marketing,Marketing Manager,Pune,India,2017-11-11,49663,paul.thomas7@company.com,2.7,Yes
+EMP0008,Priya,Lee,35,Other,IT Support,Network Administrator,Chicago,USA,2020-04-21,165870,priya.lee8@company.com,3.2,No
+EMP0009,Elizabeth,Taylor,59,Female,Marketing,Content Strategist,Vancouver,Canada,2022-06-08,71262,elizabeth.taylor9@company.com,3.5,Yes
+EMP0010,Edward,Brown,49,Other,Sales,Account Manager,London,UK,2012-07-13,157696,edward.brown10@company.com,3.6,Yes
+EMP0011,Carol,Davis,29,Female,Legal,Paralegal,Hyderabad,India,2023-03-15,35850,carol.davis11@company.com,4.9,No
+EMP0012,Steven,Lopez,54,Other,Legal,Legal Counsel,Bengaluru,India,2016-03-12,77349,steven.lopez12@company.com,3.6,Yes
+EMP0013,Joshua,Lee,45,Female,Customer Service,Customer Service Rep,Austin,USA,2017-01-08,55645,joshua.lee13@company.com,2.3,No
+EMP0014,Amit,Jones,52,Other,Legal,Legal Counsel,Boston,USA,2015-05-17,145923,amit.jones14@company.com,4.9,Yes
+EMP0015,Amanda,Martin,50,Other,IT Support,Systems Administrator,Mumbai,India,2024-02-08,93903,amanda.martin15@company.com,2.2,Yes
+EMP0016,Emily,Scott,26,Other,HR,Recruiter,New York,USA,2011-04-03,43234,emily.scott16@company.com,4.6,Yes
+EMP0017,Steven,Thomas,56,Male,Finance,Auditor,Manchester,UK,2025-04-26,158987,steven.thomas17@company.com,4.4,Yes
+EMP0018,Michael,Miller,48,Female,IT Support,Network Administrator,Berlin,Germany,2011-11-21,60799,michael.miller18@company.com,2.2,No
+EMP0019,Priya,Miller,56,Female,HR,Recruiter,Manchester,UK,2014-07-06,108018,priya.miller19@company.com,3.4,Yes
+EMP0020,Mark,Scott,27,Male,Sales,Sales Executive,New York,USA,2015-07-16,161185,mark.scott20@company.com,2.6,No
+EMP0021,Anjali,Brown,46,Female,Marketing,Marketing Manager,New York,USA,2024-05-14,162577,anjali.brown21@company.com,2.5,No
+EMP0022,Susan,Brown,42,Male,R&D,Product Researcher,San Francisco,USA,2011-10-16,166819,susan.brown22@company.com,4.8,Yes
+EMP0023,Patricia,Allen,60,Male,Sales,Account Manager,Chicago,USA,2017-07-04,99543,patricia.allen23@company.com,3.7,Yes
+EMP0024,Donna,Garcia,38,Male,IT Support,Systems Administrator,Hyderabad,India,2020-04-09,138752,donna.garcia24@company.com,2.4,No
+EMP0025,Sandra,Lee,58,Male,Sales,Sales Executive,Sydney,Australia,2012-09-07,167614,sandra.lee25@company.com,2.8,No
+EMP0026,Vikram,Jones,32,Female,HR,HR Manager,Bengaluru,India,2019-10-26,173658,vikram.jones26@company.com,2.0,No
+EMP0027,Kavya,Gupta,29,Male,Sales,Account Manager,Vancouver,Canada,2014-05-10,90215,kavya.gupta27@company.com,4.2,Yes
+EMP0028,Carol,Reddy,25,Male,Finance,Auditor,Vancouver,Canada,2023-05-02,35929,carol.reddy28@company.com,3.0,Yes
+EMP0029,Kenneth,Taylor,57,Male,Marketing,Marketing Manager,Berlin,Germany,2013-02-23,74073,kenneth.taylor29@company.com,3.6,No
+EMP0030,Emily,Scott,24,Female,Marketing,Marketing Manager,Boston,USA,2021-01-12,90070,emily.scott30@company.com,4.0,Yes
+EMP0031,Daniel,Scott,37,Male,IT Support,Systems Administrator,Boston,USA,2015-07-01,82018,daniel.scott31@company.com,4.2,No
+EMP0032,Ravi,Clark,28,Female,HR,HR Manager,London,UK,2011-08-08,87316,ravi.clark32@company.com,4.4,No
+EMP0033,Daniel,Martin,34,Female,HR,Recruiter,New York,USA,2020-05-28,53198,daniel.martin33@company.com,4.9,No
+EMP0034,Daniel,Kumar,23,Male,Legal,Paralegal,Hyderabad,India,2018-03-19,104590,daniel.kumar34@company.com,2.1,No
+EMP0035,Daniel,Lee,46,Other,IT Support,Systems Administrator,Austin,USA,2016-05-02,149309,daniel.lee35@company.com,2.0,Yes
+EMP0036,Lisa,Ramirez,29,Other,Sales,Sales Manager,Hyderabad,India,2019-09-10,142057,lisa.ramirez36@company.com,3.0,No
+EMP0037,Kimberly,Rodriguez,33,Other,HR,Payroll Specialist,Pune,India,2019-07-18,35106,kimberly.rodriguez37@company.com,2.9,Yes
+EMP0038,Betty,Nair,51,Female,R&D,Product Researcher,Hyderabad,India,2024-11-07,169001,betty.nair38@company.com,3.4,Yes
+EMP0039,Kevin,Garcia,37,Other,Finance,Finance Manager,Chicago,USA,2019-04-26,87200,kevin.garcia39@company.com,2.4,Yes
+EMP0040,Jessica,Walker,48,Other,R&D,Research Scientist,Sydney,Australia,2016-12-23,135657,jessica.walker40@company.com,3.5,Yes
+EMP0041,Elizabeth,Kumar,36,Male,Engineering,Software Engineer,Berlin,Germany,2024-01-18,100325,elizabeth.kumar41@company.com,4.8,Yes
+EMP0042,Sandra,Rodriguez,50,Other,Customer Service,Customer Success Manager,Hyderabad,India,2023-09-15,76722,sandra.rodriguez42@company.com,4.2,No
+EMP0043,Mark,Taylor,37,Female,HR,HR Manager,Singapore,Singapore,2024-02-23,109901,mark.taylor43@company.com,2.7,No
+EMP0044,Christopher,Wright,36,Female,Sales,Account Manager,Boston,USA,2014-12-07,51837,christopher.wright44@company.com,3.2,No
+EMP0045,Paul,Robinson,48,Female,IT Support,IT Support Specialist,Manchester,UK,2010-10-13,160037,paul.robinson45@company.com,2.0,No
+EMP0046,Karen,Harris,53,Male,IT Support,Systems Administrator,Toronto,Canada,2018-07-16,42608,karen.harris46@company.com,3.2,No
+EMP0047,George,Hernandez,47,Other,Customer Service,Customer Service Rep,New York,USA,2010-02-21,147358,george.hernandez47@company.com,2.4,No
+EMP0048,Barbara,Brown,35,Female,Finance,Auditor,Hyderabad,India,2020-06-25,134385,barbara.brown48@company.com,2.8,No
+EMP0049,Thomas,Garcia,44,Male,Customer Service,Customer Service Rep,San Francisco,USA,2012-11-02,43134,thomas.garcia49@company.com,4.8,Yes
+EMP0050,Sneha,Johnson,30,Female,R&D,Research Scientist,Toronto,Canada,2013-10-07,156905,sneha.johnson50@company.com,4.1,No
+EMP0051,David,Sharma,32,Female,R&D,Product Researcher,Austin,USA,2013-10-01,116777,david.sharma51@company.com,3.7,No
+EMP0052,Margaret,Gonzalez,41,Other,Sales,Account Manager,Austin,USA,2013-10-26,45766,margaret.gonzalez52@company.com,3.0,No
+EMP0053,Kevin,White,48,Female,Sales,Sales Manager,New York,USA,2013-07-12,155517,kevin.white53@company.com,4.1,No
+EMP0054,Barbara,King,49,Other,Finance,Auditor,Sydney,Australia,2018-06-28,99355,barbara.king54@company.com,4.5,Yes
+EMP0055,Sarah,Lewis,43,Male,HR,Payroll Specialist,Pune,India,2025-06-06,162808,sarah.lewis55@company.com,2.6,No
+EMP0056,Nancy,Moore,57,Male,R&D,Product Researcher,Vancouver,Canada,2016-02-08,141542,nancy.moore56@company.com,3.5,Yes
+EMP0057,Brian,Walker,27,Female,Customer Service,Support Lead,New York,USA,2017-07-23,98780,brian.walker57@company.com,2.9,No
+EMP0058,Donald,Scott,57,Female,Legal,Paralegal,Berlin,Germany,2021-12-15,106019,donald.scott58@company.com,2.9,Yes
+EMP0059,Linda,Gonzalez,34,Male,Operations,Operations Analyst,London,UK,2025-05-24,172530,linda.gonzalez59@company.com,3.8,Yes
+EMP0060,Sneha,Gonzalez,33,Female,Finance,Accountant,Mumbai,India,2010-12-18,68182,sneha.gonzalez60@company.com,2.8,Yes
+EMP0061,Kimberly,Jackson,22,Other,Marketing,Marketing Manager,Austin,USA,2019-08-16,150466,kimberly.jackson61@company.com,3.0,Yes
+EMP0062,Thomas,Walker,53,Male,Sales,Sales Executive,Pune,India,2011-03-05,114648,thomas.walker62@company.com,2.3,Yes
+EMP0063,Linda,Scott,55,Female,IT Support,Systems Administrator,Toronto,Canada,2024-08-10,147415,linda.scott63@company.com,2.9,Yes
+EMP0064,Donna,Miller,27,Male,HR,Recruiter,Vancouver,Canada,2017-03-18,54677,donna.miller64@company.com,2.5,No
+EMP0065,Mark,Rao,24,Male,R&D,Data Scientist,Bengaluru,India,2019-12-10,154021,mark.rao65@company.com,2.2,Yes
+EMP0066,Kavya,Taylor,49,Male,R&D,Product Researcher,Manchester,UK,2017-11-05,104633,kavya.taylor66@company.com,4.5,Yes
+EMP0067,Patricia,Hernandez,29,Female,Finance,Finance Manager,Sydney,Australia,2019-12-13,106367,patricia.hernandez67@company.com,3.5,No
+EMP0068,Mark,Garcia,42,Other,R&D,Research Scientist,Berlin,Germany,2018-01-03,95011,mark.garcia68@company.com,4.9,Yes
+EMP0069,Edward,Singh,52,Other,Finance,Financial Analyst,London,UK,2024-05-06,149264,edward.singh69@company.com,3.9,No
+EMP0070,Jennifer,Walker,42,Other,Operations,Operations Manager,Hyderabad,India,2013-03-11,142910,jennifer.walker70@company.com,4.1,No
+EMP0071,Kevin,Sanchez,27,Female,Legal,Legal Counsel,Sydney,Australia,2018-06-04,140952,kevin.sanchez71@company.com,4.6,Yes
+EMP0072,Kevin,Wright,34,Other,Customer Service,Support Lead,San Francisco,USA,2021-10-25,165676,kevin.wright72@company.com,3.9,Yes
+EMP0073,Susan,Moore,50,Other,Legal,Legal Counsel,Bengaluru,India,2025-02-01,97730,susan.moore73@company.com,4.1,No
+EMP0074,Kimberly,Smith,36,Male,Legal,Paralegal,Chicago,USA,2024-02-21,75362,kimberly.smith74@company.com,3.5,No
+EMP0075,Steven,Moore,37,Female,IT Support,Network Administrator,Singapore,Singapore,2014-07-07,168232,steven.moore75@company.com,4.2,Yes
+EMP0076,Pooja,Jones,54,Female,Finance,Auditor,Hyderabad,India,2010-05-24,113264,pooja.jones76@company.com,4.5,No
+EMP0077,Pooja,Martinez,44,Female,Customer Service,Customer Success Manager,Singapore,Singapore,2022-08-11,84454,pooja.martinez77@company.com,4.9,Yes
+EMP0078,Andrew,Harris,42,Other,HR,Payroll Specialist,San Francisco,USA,2025-12-26,134937,andrew.harris78@company.com,3.2,Yes
+EMP0079,Ashley,Williams,50,Male,Marketing,SEO Analyst,Austin,USA,2024-01-24,72789,ashley.williams79@company.com,3.2,Yes
+EMP0080,Robert,Walker,27,Female,Finance,Finance Manager,Pune,India,2022-06-21,162912,robert.walker80@company.com,4.6,Yes
+EMP0081,Donna,Jones,27,Female,HR,HR Manager,Toronto,Canada,2013-11-23,61347,donna.jones81@company.com,3.3,No
+EMP0082,Anjali,Johnson,40,Female,Engineering,DevOps Engineer,San Francisco,USA,2021-07-05,99014,anjali.johnson82@company.com,3.6,Yes
+EMP0083,David,Lopez,53,Other,Sales,Business Development Rep,Toronto,Canada,2014-04-15,101578,david.lopez83@company.com,3.4,Yes
+EMP0084,Anjali,Robinson,50,Female,Finance,Accountant,Chicago,USA,2019-11-14,100561,anjali.robinson84@company.com,3.4,No
+EMP0085,Richard,Harris,46,Other,Customer Service,Customer Service Rep,Toronto,Canada,2021-10-10,112392,richard.harris85@company.com,2.1,No
+EMP0086,Sarah,Smith,60,Other,R&D,Product Researcher,San Francisco,USA,2025-05-25,95324,sarah.smith86@company.com,3.8,No
+EMP0087,Joseph,Reddy,28,Other,HR,HR Manager,Boston,USA,2011-05-26,150559,joseph.reddy87@company.com,2.1,No
+EMP0088,George,Rodriguez,48,Male,Sales,Sales Manager,Hyderabad,India,2016-03-26,176402,george.rodriguez88@company.com,4.6,No
+EMP0089,Dorothy,Allen,52,Female,Finance,Accountant,Vancouver,Canada,2020-02-15,54739,dorothy.allen89@company.com,2.4,Yes
+EMP0090,Pooja,Singh,27,Female,IT Support,Systems Administrator,Mumbai,India,2010-05-18,67398,pooja.singh90@company.com,3.4,No
+EMP0091,Emily,Harris,52,Male,Operations,Operations Analyst,Toronto,Canada,2020-10-08,51571,emily.harris91@company.com,3.9,No
+EMP0092,Rahul,Rao,30,Male,Finance,Auditor,Austin,USA,2011-05-16,65440,rahul.rao92@company.com,2.3,Yes
+EMP0093,Matthew,Robinson,59,Other,Operations,Logistics Coordinator,Berlin,Germany,2014-07-21,60957,matthew.robinson93@company.com,4.5,No
+EMP0094,Sarah,Williams,50,Male,Operations,Operations Analyst,Sydney,Australia,2021-02-22,131294,sarah.williams94@company.com,3.6,No
+EMP0095,Patricia,Sanchez,51,Male,Finance,Accountant,Austin,USA,2016-11-21,40598,patricia.sanchez95@company.com,2.2,No
+EMP0096,Jessica,Rodriguez,57,Male,R&D,Research Scientist,Chicago,USA,2016-04-11,73680,jessica.rodriguez96@company.com,4.4,Yes
+EMP0097,Sarah,Martinez,29,Other,Marketing,SEO Analyst,London,UK,2010-03-01,128911,sarah.martinez97@company.com,4.4,Yes
+EMP0098,Emily,Lee,25,Male,Engineering,Senior Software Engineer,Vancouver,Canada,2023-09-04,51661,emily.lee98@company.com,3.4,No
+EMP0099,Steven,Nair,24,Other,Sales,Business Development Rep,Toronto,Canada,2019-08-21,43165,steven.nair99@company.com,2.2,No
+EMP0100,Arjun,Sanchez,53,Other,IT Support,Systems Administrator,Austin,USA,2024-02-03,119439,arjun.sanchez100@company.com,3.8,Yes
+EMP0101,William,Moore,46,Other,R&D,Product Researcher,Hyderabad,India,2019-08-17,147774,william.moore101@company.com,2.3,Yes
+EMP0102,Arjun,Kumar,49,Female,Legal,Compliance Officer,Manchester,UK,2017-07-11,153882,arjun.kumar102@company.com,3.2,Yes
+EMP0103,Christopher,Ramirez,45,Male,Operations,Logistics Coordinator,Vancouver,Canada,2025-02-03,57377,christopher.ramirez103@company.com,2.3,Yes
+EMP0104,Melissa,White,29,Female,Marketing,Marketing Specialist,Hyderabad,India,2021-11-25,145870,melissa.white104@company.com,4.6,Yes
+EMP0105,Charles,Sharma,58,Other,Finance,Finance Manager,Austin,USA,2016-03-22,161403,charles.sharma105@company.com,2.7,Yes
+EMP0106,Daniel,Scott,58,Male,Operations,Operations Analyst,Vancouver,Canada,2023-09-25,41882,daniel.scott106@company.com,3.8,No
+EMP0107,Mary,Lopez,44,Male,Finance,Finance Manager,Hyderabad,India,2015-03-19,140063,mary.lopez107@company.com,2.2,Yes
+EMP0108,Jennifer,King,51,Female,HR,Payroll Specialist,Berlin,Germany,2015-06-10,120035,jennifer.king108@company.com,4.3,Yes
+EMP0109,Vikram,Brown,27,Female,Marketing,Content Strategist,San Francisco,USA,2024-11-14,162313,vikram.brown109@company.com,3.8,No
+EMP0110,Sarah,Wilson,49,Male,Legal,Legal Counsel,Mumbai,India,2019-11-22,162567,sarah.wilson110@company.com,3.6,No
+EMP0111,John,Anderson,22,Male,IT Support,Systems Administrator,San Francisco,USA,2019-04-25,70975,john.anderson111@company.com,4.3,No
+EMP0112,Christopher,Davis,33,Male,Engineering,QA Engineer,Berlin,Germany,2022-09-23,95322,christopher.davis112@company.com,3.5,No
+EMP0113,Robert,Sanchez,51,Male,Engineering,QA Engineer,New York,USA,2020-10-14,141017,robert.sanchez113@company.com,4.1,No
+EMP0114,Charles,Davis,32,Other,IT Support,IT Support Specialist,Hyderabad,India,2024-12-12,58102,charles.davis114@company.com,3.3,Yes
+EMP0115,Jessica,Ramirez,47,Female,R&D,Data Scientist,Chicago,USA,2020-04-11,79074,jessica.ramirez115@company.com,2.2,Yes
+EMP0116,Dorothy,Allen,31,Male,HR,HR Manager,Mumbai,India,2013-03-09,86713,dorothy.allen116@company.com,2.5,Yes
+EMP0117,Edward,Kumar,51,Other,Sales,Account Manager,Singapore,Singapore,2024-11-19,119727,edward.kumar117@company.com,4.6,No
+EMP0118,Elizabeth,Lewis,41,Female,Sales,Business Development Rep,Sydney,Australia,2011-06-17,54448,elizabeth.lewis118@company.com,2.9,No
+EMP0119,John,Brown,27,Other,Operations,Operations Manager,Chicago,USA,2022-08-19,45753,john.brown119@company.com,3.3,Yes
+EMP0120,Christopher,Sharma,25,Female,Customer Service,Customer Success Manager,Boston,USA,2013-06-23,57106,christopher.sharma120@company.com,3.5,Yes
+EMP0121,John,Thomas,45,Female,Customer Service,Support Lead,London,UK,2019-07-14,123700,john.thomas121@company.com,4.0,Yes
+EMP0122,Ravi,Reddy,28,Other,Operations,Operations Analyst,Hyderabad,India,2022-05-09,74419,ravi.reddy122@company.com,3.0,Yes
+EMP0123,Rahul,Thompson,60,Other,Finance,Auditor,Boston,USA,2012-05-18,133744,rahul.thompson123@company.com,3.9,No
+EMP0124,Amit,Rodriguez,54,Female,Legal,Legal Counsel,Berlin,Germany,2010-06-10,82254,amit.rodriguez124@company.com,4.9,No
+EMP0125,Deborah,Young,31,Male,HR,Recruiter,Boston,USA,2019-02-17,176497,deborah.young125@company.com,4.5,Yes
+EMP0126,Kevin,Perez,31,Male,R&D,Research Scientist,Pune,India,2015-12-25,78395,kevin.perez126@company.com,4.2,Yes
+EMP0127,Anthony,White,50,Male,HR,Payroll Specialist,Bengaluru,India,2017-05-26,157949,anthony.white127@company.com,4.7,Yes
+EMP0128,Lisa,Singh,40,Female,R&D,Data Scientist,Sydney,Australia,2023-03-27,87349,lisa.singh128@company.com,4.4,Yes
+EMP0129,Pooja,Taylor,57,Male,Engineering,QA Engineer,Mumbai,India,2013-05-03,77024,pooja.taylor129@company.com,2.8,Yes
+EMP0130,Sneha,Ramirez,44,Male,Sales,Account Manager,Sydney,Australia,2023-01-13,166598,sneha.ramirez130@company.com,3.1,No
+EMP0131,Jennifer,White,28,Other,HR,HR Generalist,Hyderabad,India,2020-03-05,45040,jennifer.white131@company.com,2.9,No
+EMP0132,Brian,Rodriguez,27,Male,Customer Service,Support Lead,New York,USA,2018-04-27,74195,brian.rodriguez132@company.com,3.6,No
+EMP0133,Linda,Jackson,25,Male,HR,HR Manager,Austin,USA,2023-11-26,154829,linda.jackson133@company.com,2.2,No
+EMP0134,Joshua,Wright,31,Female,Engineering,Engineering Manager,Toronto,Canada,2023-01-20,127488,joshua.wright134@company.com,2.7,No
+EMP0135,Barbara,Gupta,55,Other,Sales,Sales Manager,Chicago,USA,2010-07-28,158243,barbara.gupta135@company.com,2.1,No
+EMP0136,Lisa,Taylor,44,Male,Engineering,DevOps Engineer,Chicago,USA,2013-10-24,122167,lisa.taylor136@company.com,2.4,No
+EMP0137,Paul,Perez,33,Male,Marketing,Marketing Manager,Singapore,Singapore,2012-12-25,154977,paul.perez137@company.com,2.1,Yes
+EMP0138,John,Gonzalez,54,Female,Engineering,DevOps Engineer,Bengaluru,India,2025-05-02,85096,john.gonzalez138@company.com,2.9,Yes
+EMP0139,Pooja,Kumar,45,Female,Operations,Operations Manager,Austin,USA,2022-12-15,136356,pooja.kumar139@company.com,3.0,Yes
+EMP0140,Ashley,Rao,27,Other,Customer Service,Support Lead,Vancouver,Canada,2023-02-14,82305,ashley.rao140@company.com,3.6,No
+EMP0141,Michael,Garcia,41,Female,Operations,Logistics Coordinator,Bengaluru,India,2023-03-23,151367,michael.garcia141@company.com,3.1,Yes
+EMP0142,George,Thompson,25,Male,R&D,Data Scientist,Vancouver,Canada,2022-06-17,76939,george.thompson142@company.com,4.9,Yes
+EMP0143,Arjun,Sharma,26,Male,Customer Service,Customer Service Rep,Boston,USA,2021-06-13,43489,arjun.sharma143@company.com,3.8,No
+EMP0144,Lisa,White,55,Female,Customer Service,Customer Service Rep,Boston,USA,2022-06-21,108056,lisa.white144@company.com,2.7,Yes
+EMP0145,Mary,Lopez,57,Male,Customer Service,Customer Success Manager,Pune,India,2018-05-23,151987,mary.lopez145@company.com,2.6,No
+EMP0146,Brian,Young,26,Female,HR,HR Generalist,Boston,USA,2015-12-15,58013,brian.young146@company.com,4.4,No
+EMP0147,Kevin,Thompson,32,Other,Sales,Sales Manager,Bengaluru,India,2015-06-17,93783,kevin.thompson147@company.com,2.4,Yes
+EMP0148,Ravi,Rodriguez,45,Other,HR,Payroll Specialist,New York,USA,2021-08-26,179610,ravi.rodriguez148@company.com,2.4,Yes
+EMP0149,Robert,Martin,55,Female,IT Support,Systems Administrator,Singapore,Singapore,2023-10-03,67853,robert.martin149@company.com,4.9,Yes
+EMP0150,Mark,Robinson,57,Other,Legal,Paralegal,Boston,USA,2015-03-14,166822,mark.robinson150@company.com,4.7,Yes
+EMP0151,Sneha,Davis,32,Male,Legal,Legal Counsel,Bengaluru,India,2020-12-08,125707,sneha.davis151@company.com,4.8,No
+EMP0152,Arjun,Garcia,30,Other,Finance,Accountant,Vancouver,Canada,2019-10-18,59491,arjun.garcia152@company.com,3.5,Yes
+EMP0153,Emily,Nair,58,Male,Marketing,Content Strategist,Hyderabad,India,2010-02-02,104377,emily.nair153@company.com,4.0,No
+EMP0154,Donna,Reddy,41,Female,Engineering,QA Engineer,Bengaluru,India,2017-11-13,112970,donna.reddy154@company.com,3.4,Yes
+EMP0155,David,Lewis,35,Female,IT Support,Network Administrator,Sydney,Australia,2014-06-28,118706,david.lewis155@company.com,4.2,No
+EMP0156,Margaret,Rodriguez,42,Male,Operations,Logistics Coordinator,Austin,USA,2024-02-09,152858,margaret.rodriguez156@company.com,2.7,Yes
+EMP0157,Patricia,Jackson,37,Male,IT Support,Systems Administrator,Berlin,Germany,2020-10-24,116976,patricia.jackson157@company.com,2.6,Yes
+EMP0158,Ashley,Allen,53,Male,Customer Service,Support Lead,Bengaluru,India,2012-07-17,154860,ashley.allen158@company.com,4.9,Yes
+EMP0159,Emily,Thompson,53,Other,Engineering,Software Engineer,Bengaluru,India,2025-05-18,37143,emily.thompson159@company.com,4.5,No
+EMP0160,William,Taylor,24,Female,Operations,Operations Manager,Mumbai,India,2011-10-18,86027,william.taylor160@company.com,3.1,No
+EMP0161,Robert,Harris,29,Male,Legal,Paralegal,Vancouver,Canada,2013-07-12,123889,robert.harris161@company.com,3.7,No
+EMP0162,Edward,Martinez,24,Male,HR,Payroll Specialist,San Francisco,USA,2014-12-11,159189,edward.martinez162@company.com,3.6,Yes
+EMP0163,Joshua,Allen,32,Female,Marketing,SEO Analyst,Hyderabad,India,2019-10-11,167989,joshua.allen163@company.com,4.5,No
+EMP0164,Amanda,Torres,45,Female,Finance,Auditor,New York,USA,2013-07-19,115655,amanda.torres164@company.com,4.4,Yes
+EMP0165,Joshua,Walker,59,Female,Finance,Accountant,San Francisco,USA,2015-09-21,134664,joshua.walker165@company.com,2.4,Yes
+EMP0166,John,Torres,50,Female,Sales,Account Manager,New York,USA,2023-03-14,88448,john.torres166@company.com,3.2,No
+EMP0167,Pooja,Brown,52,Other,Marketing,Content Strategist,Hyderabad,India,2022-06-06,155498,pooja.brown167@company.com,4.7,No
+EMP0168,Paul,Thompson,37,Female,Finance,Auditor,Manchester,UK,2019-04-10,110760,paul.thompson168@company.com,4.1,No
+EMP0169,Christopher,Walker,40,Male,Operations,Logistics Coordinator,Vancouver,Canada,2022-07-27,125474,christopher.walker169@company.com,4.9,Yes
+EMP0170,Charles,Williams,50,Other,Finance,Financial Analyst,Mumbai,India,2018-12-16,91095,charles.williams170@company.com,2.6,No
+EMP0171,Kavya,Scott,59,Male,Finance,Accountant,Austin,USA,2017-01-22,174209,kavya.scott171@company.com,2.7,Yes
+EMP0172,Patricia,Miller,28,Other,IT Support,Network Administrator,Singapore,Singapore,2014-01-18,76403,patricia.miller172@company.com,3.2,No
+EMP0173,Donald,Kumar,40,Other,HR,HR Manager,Hyderabad,India,2011-02-21,95875,donald.kumar173@company.com,3.6,Yes
+EMP0174,Rahul,Lopez,47,Female,IT Support,IT Support Specialist,San Francisco,USA,2015-12-28,110882,rahul.lopez174@company.com,4.6,Yes
+EMP0175,Karen,Torres,40,Female,R&D,Research Scientist,Hyderabad,India,2025-03-28,167176,karen.torres175@company.com,3.4,Yes
+EMP0176,Priya,Davis,38,Other,Operations,Operations Analyst,Sydney,Australia,2015-01-24,123371,priya.davis176@company.com,4.4,Yes
+EMP0177,Barbara,Patel,27,Female,IT Support,Network Administrator,Hyderabad,India,2013-03-05,160161,barbara.patel177@company.com,3.0,Yes
+EMP0178,James,Taylor,39,Female,IT Support,IT Support Specialist,Sydney,Australia,2019-10-24,37997,james.taylor178@company.com,2.8,No
+EMP0179,Brian,Thomas,41,Male,Engineering,Software Engineer,Sydney,Australia,2022-11-17,116521,brian.thomas179@company.com,4.1,No
+EMP0180,Lisa,Patel,52,Male,HR,Recruiter,Boston,USA,2024-12-20,132943,lisa.patel180@company.com,3.2,No
+EMP0181,Edward,Wright,55,Female,HR,Recruiter,Chicago,USA,2021-02-19,64414,edward.wright181@company.com,2.2,Yes
+EMP0182,Andrew,Wright,55,Female,Marketing,Content Strategist,Hyderabad,India,2013-11-07,163143,andrew.wright182@company.com,2.3,No
+EMP0183,Priya,Brown,51,Other,Customer Service,Customer Service Rep,Berlin,Germany,2011-09-15,115784,priya.brown183@company.com,4.2,No
+EMP0184,Thomas,Smith,49,Female,HR,HR Generalist,San Francisco,USA,2012-09-02,53092,thomas.smith184@company.com,5.0,No
+EMP0185,John,Jackson,48,Female,IT Support,IT Support Specialist,Boston,USA,2022-08-28,133958,john.jackson185@company.com,3.1,Yes
+EMP0186,Michelle,Thompson,55,Male,Sales,Account Manager,Pune,India,2017-01-25,40959,michelle.thompson186@company.com,4.9,No
+EMP0187,Carol,Wright,36,Male,IT Support,Systems Administrator,Pune,India,2024-06-05,107259,carol.wright187@company.com,2.6,Yes
+EMP0188,John,Gupta,37,Male,IT Support,Systems Administrator,New York,USA,2012-02-20,43801,john.gupta188@company.com,3.3,Yes
+EMP0189,Jessica,Williams,56,Male,IT Support,Network Administrator,Toronto,Canada,2011-03-17,110828,jessica.williams189@company.com,2.7,No
+EMP0190,Andrew,Sharma,31,Other,Operations,Operations Analyst,Bengaluru,India,2017-07-10,107129,andrew.sharma190@company.com,2.2,Yes
+EMP0191,Kenneth,Singh,25,Female,IT Support,Systems Administrator,Singapore,Singapore,2022-09-11,144137,kenneth.singh191@company.com,3.2,No
+EMP0192,Matthew,Lopez,36,Female,Legal,Paralegal,Toronto,Canada,2014-08-02,143180,matthew.lopez192@company.com,4.9,Yes
+EMP0193,Matthew,Thomas,27,Female,Finance,Accountant,Hyderabad,India,2021-02-18,84933,matthew.thomas193@company.com,2.2,No
+EMP0194,Carol,Sharma,34,Other,R&D,Research Scientist,Chicago,USA,2016-08-07,122284,carol.sharma194@company.com,2.9,Yes
+EMP0195,Susan,Gonzalez,60,Other,Sales,Business Development Rep,Toronto,Canada,2016-07-08,179724,susan.gonzalez195@company.com,3.0,No
+EMP0196,Matthew,Robinson,41,Female,Legal,Compliance Officer,Mumbai,India,2021-09-16,157160,matthew.robinson196@company.com,2.3,No
+EMP0197,Edward,Lee,48,Male,HR,HR Manager,Hyderabad,India,2017-12-05,39251,edward.lee197@company.com,2.8,No
+EMP0198,Charles,Martinez,46,Other,HR,HR Manager,Toronto,Canada,2017-08-18,123490,charles.martinez198@company.com,2.8,No
+EMP0199,George,Kumar,44,Male,Customer Service,Support Lead,London,UK,2014-12-18,163009,george.kumar199@company.com,2.6,Yes
+EMP0200,Dorothy,Williams,48,Male,Sales,Sales Executive,New York,USA,2017-02-23,74591,dorothy.williams200@company.com,2.0,No
+EMP0201,Lisa,Brown,53,Male,R&D,Product Researcher,Singapore,Singapore,2010-09-18,142829,lisa.brown201@company.com,2.0,No
+EMP0202,Paul,Jackson,33,Male,Engineering,Engineering Manager,Berlin,Germany,2013-09-05,98168,paul.jackson202@company.com,2.6,No
+EMP0203,Amit,Thompson,45,Female,Finance,Auditor,Chicago,USA,2024-10-08,94207,amit.thompson203@company.com,2.9,Yes
+EMP0204,Michelle,Kumar,46,Female,Engineering,Software Engineer,Pune,India,2025-01-21,37477,michelle.kumar204@company.com,4.1,Yes
+EMP0205,Ashley,Ramirez,55,Male,Operations,Logistics Coordinator,Austin,USA,2017-04-28,159649,ashley.ramirez205@company.com,2.8,Yes
+EMP0206,Carol,Moore,33,Female,Legal,Compliance Officer,San Francisco,USA,2010-04-19,72798,carol.moore206@company.com,4.3,No
+EMP0207,Kavya,Jones,58,Female,Finance,Accountant,Toronto,Canada,2020-07-25,71687,kavya.jones207@company.com,4.4,Yes
+EMP0208,Steven,Thompson,36,Male,Engineering,Software Engineer,Berlin,Germany,2020-10-25,138993,steven.thompson208@company.com,4.9,No
+EMP0209,Mary,Reddy,36,Female,Finance,Auditor,Singapore,Singapore,2022-07-06,134633,mary.reddy209@company.com,2.3,No
+EMP0210,Priya,Thomas,31,Female,Sales,Sales Executive,Vancouver,Canada,2014-12-13,118015,priya.thomas210@company.com,3.1,Yes
+EMP0211,James,Martin,28,Male,Customer Service,Support Lead,Vancouver,Canada,2012-03-14,152661,james.martin211@company.com,3.7,No
+EMP0212,Michael,Johnson,60,Other,Sales,Sales Manager,Chicago,USA,2020-07-01,111506,michael.johnson212@company.com,3.2,Yes
+EMP0213,George,Scott,32,Male,HR,Recruiter,Pune,India,2018-05-09,164269,george.scott213@company.com,2.4,Yes
+EMP0214,Betty,Moore,26,Female,IT Support,Network Administrator,Singapore,Singapore,2018-04-24,164971,betty.moore214@company.com,3.8,Yes
+EMP0215,Sandra,Miller,47,Female,Marketing,SEO Analyst,New York,USA,2022-06-15,122749,sandra.miller215@company.com,3.3,Yes
+EMP0216,Karen,Lee,52,Female,R&D,Product Researcher,Manchester,UK,2015-07-11,111401,karen.lee216@company.com,4.2,No
+EMP0217,Andrew,Thomas,47,Female,Operations,Operations Manager,Vancouver,Canada,2013-10-07,178033,andrew.thomas217@company.com,2.5,Yes
+EMP0218,George,Robinson,26,Female,HR,Payroll Specialist,Bengaluru,India,2025-03-21,114385,george.robinson218@company.com,2.7,Yes
+EMP0219,Amanda,Ramirez,60,Female,IT Support,IT Support Specialist,Sydney,Australia,2022-09-17,144655,amanda.ramirez219@company.com,3.6,No
+EMP0220,Brian,Wright,28,Male,R&D,Product Researcher,Chicago,USA,2021-03-21,46612,brian.wright220@company.com,3.7,No
+EMP0221,Edward,Perez,28,Female,IT Support,IT Support Specialist,New York,USA,2017-09-24,170999,edward.perez221@company.com,3.7,Yes
+EMP0222,Mark,White,44,Male,IT Support,Network Administrator,Boston,USA,2025-02-10,144045,mark.white222@company.com,4.8,Yes
+EMP0223,Linda,Martinez,51,Male,Operations,Operations Manager,Hyderabad,India,2025-06-16,60591,linda.martinez223@company.com,3.3,No
+EMP0224,Christopher,Jones,23,Female,Finance,Financial Analyst,Austin,USA,2013-11-26,78084,christopher.jones224@company.com,4.8,Yes
+EMP0225,Dorothy,Lopez,57,Female,Legal,Legal Counsel,Hyderabad,India,2024-04-26,141180,dorothy.lopez225@company.com,3.9,Yes
+EMP0226,Kenneth,Gupta,34,Female,IT Support,Network Administrator,New York,USA,2023-07-01,91307,kenneth.gupta226@company.com,2.6,Yes
+EMP0227,Andrew,Miller,42,Male,Legal,Legal Counsel,Mumbai,India,2024-02-09,163315,andrew.miller227@company.com,3.6,No
+EMP0228,Joshua,Harris,44,Female,R&D,Data Scientist,Austin,USA,2024-10-06,112973,joshua.harris228@company.com,4.8,Yes
+EMP0229,Carol,Rodriguez,41,Male,Operations,Operations Analyst,Toronto,Canada,2015-06-23,72056,carol.rodriguez229@company.com,3.5,No
+EMP0230,Joshua,Rodriguez,33,Female,R&D,Data Scientist,Berlin,Germany,2015-09-06,163356,joshua.rodriguez230@company.com,2.9,Yes
+EMP0231,Christopher,Lewis,22,Female,R&D,Research Scientist,Mumbai,India,2014-04-27,135648,christopher.lewis231@company.com,4.9,No
+EMP0232,Anthony,Singh,53,Male,Customer Service,Support Lead,Sydney,Australia,2012-10-01,92810,anthony.singh232@company.com,2.9,No
+EMP0233,Joseph,Wright,58,Other,Finance,Accountant,Sydney,Australia,2025-09-17,64677,joseph.wright233@company.com,3.7,No
+EMP0234,Deborah,Wright,50,Other,Operations,Logistics Coordinator,San Francisco,USA,2016-07-04,99888,deborah.wright234@company.com,2.9,Yes
+EMP0235,Mark,Taylor,29,Male,Operations,Operations Analyst,Sydney,Australia,2016-12-19,126915,mark.taylor235@company.com,4.6,No
+EMP0236,David,Patel,25,Other,Marketing,Content Strategist,Manchester,UK,2021-09-09,176234,david.patel236@company.com,2.5,No
+EMP0237,Charles,Torres,48,Male,Finance,Financial Analyst,Boston,USA,2018-11-05,69784,charles.torres237@company.com,2.7,No
+EMP0238,Sneha,Thomas,58,Other,IT Support,Network Administrator,Boston,USA,2018-11-14,133349,sneha.thomas238@company.com,3.4,Yes
+EMP0239,Margaret,Allen,53,Female,Finance,Finance Manager,Sydney,Australia,2010-12-03,155179,margaret.allen239@company.com,3.9,No
+EMP0240,Arjun,Jones,49,Male,Legal,Paralegal,Manchester,UK,2025-05-11,109342,arjun.jones240@company.com,3.0,Yes
+EMP0241,Andrew,Young,24,Male,Operations,Logistics Coordinator,San Francisco,USA,2024-01-04,76414,andrew.young241@company.com,3.3,Yes
+EMP0242,Betty,Gonzalez,39,Male,Marketing,SEO Analyst,London,UK,2021-05-03,132476,betty.gonzalez242@company.com,4.0,Yes
+EMP0243,Patricia,Sanchez,27,Other,Finance,Accountant,Berlin,Germany,2013-01-07,159992,patricia.sanchez243@company.com,2.2,Yes
+EMP0244,Dorothy,Singh,43,Male,Customer Service,Customer Service Rep,New York,USA,2023-12-05,160226,dorothy.singh244@company.com,2.2,No
+EMP0245,Jennifer,Miller,41,Male,Sales,Sales Manager,Mumbai,India,2022-03-21,72448,jennifer.miller245@company.com,2.2,Yes
+EMP0246,Donna,Kumar,35,Other,Marketing,Marketing Manager,Mumbai,India,2014-07-20,150968,donna.kumar246@company.com,4.6,Yes
+EMP0247,Anjali,Miller,44,Female,Marketing,Marketing Specialist,Pune,India,2020-03-08,107605,anjali.miller247@company.com,3.9,Yes
+EMP0248,Kimberly,Sharma,23,Other,R&D,Product Researcher,Bengaluru,India,2019-04-17,168568,kimberly.sharma248@company.com,2.6,No
+EMP0249,Charles,Kumar,46,Male,Engineering,Senior Software Engineer,Singapore,Singapore,2017-08-21,53615,charles.kumar249@company.com,3.6,Yes
+EMP0250,Lisa,Lee,45,Other,Marketing,Marketing Manager,Berlin,Germany,2015-08-25,54134,lisa.lee250@company.com,2.1,Yes
+EMP0251,James,Taylor,47,Other,HR,HR Generalist,San Francisco,USA,2019-11-23,166346,james.taylor251@company.com,4.3,No
+EMP0252,Brian,Sanchez,27,Female,Sales,Account Manager,Vancouver,Canada,2012-09-07,75731,brian.sanchez252@company.com,3.6,No
+EMP0253,Emily,Reddy,37,Male,Sales,Sales Manager,Berlin,Germany,2017-02-14,65405,emily.reddy253@company.com,3.4,Yes
+EMP0254,Karen,Gupta,30,Other,Marketing,Marketing Specialist,New York,USA,2010-03-16,125886,karen.gupta254@company.com,3.6,No
+EMP0255,David,White,23,Female,Marketing,SEO Analyst,Austin,USA,2023-05-17,51743,david.white255@company.com,2.8,Yes
+EMP0256,Ashley,Robinson,53,Other,Legal,Paralegal,San Francisco,USA,2015-06-06,101877,ashley.robinson256@company.com,4.3,Yes
+EMP0257,Joseph,Allen,37,Male,Engineering,Software Engineer,New York,USA,2025-06-13,74343,joseph.allen257@company.com,2.5,Yes
+EMP0258,Kimberly,Kumar,37,Female,IT Support,IT Support Specialist,Hyderabad,India,2020-05-27,55417,kimberly.kumar258@company.com,3.7,Yes
+EMP0259,Steven,Singh,55,Male,Engineering,Senior Software Engineer,Toronto,Canada,2022-02-15,109005,steven.singh259@company.com,4.3,No
+EMP0260,Christopher,Garcia,45,Male,Legal,Paralegal,New York,USA,2019-10-26,114668,christopher.garcia260@company.com,4.2,Yes
+EMP0261,Sandra,White,56,Male,R&D,Data Scientist,Manchester,UK,2014-01-14,41267,sandra.white261@company.com,2.7,No
+EMP0262,Kenneth,Rao,46,Other,Engineering,DevOps Engineer,New York,USA,2019-02-07,173887,kenneth.rao262@company.com,4.9,No
+EMP0263,Ashley,Brown,24,Male,Marketing,SEO Analyst,Chicago,USA,2023-12-12,155182,ashley.brown263@company.com,4.9,Yes
+EMP0264,Emily,Miller,26,Other,Legal,Legal Counsel,Pune,India,2011-07-22,69264,emily.miller264@company.com,2.7,No
+EMP0265,Arjun,Lee,42,Female,IT Support,Systems Administrator,Hyderabad,India,2018-04-03,88139,arjun.lee265@company.com,2.4,Yes
+EMP0266,Elizabeth,Miller,42,Female,Marketing,Marketing Manager,Sydney,Australia,2013-09-12,89430,elizabeth.miller266@company.com,3.4,No
+EMP0267,Thomas,Davis,60,Male,Sales,Account Manager,Bengaluru,India,2016-06-05,58910,thomas.davis267@company.com,4.1,No
+EMP0268,Margaret,Allen,33,Male,Engineering,DevOps Engineer,Vancouver,Canada,2022-08-18,179210,margaret.allen268@company.com,2.7,No
+EMP0269,Michael,Rodriguez,36,Male,Sales,Sales Executive,San Francisco,USA,2016-07-12,57030,michael.rodriguez269@company.com,3.7,No
+EMP0270,Rahul,Jones,50,Male,Engineering,Software Engineer,Manchester,UK,2012-06-04,46192,rahul.jones270@company.com,4.8,Yes
+EMP0271,David,Torres,53,Male,IT Support,Systems Administrator,Pune,India,2022-11-14,80300,david.torres271@company.com,3.1,Yes
+EMP0272,Sarah,Moore,37,Other,Customer Service,Customer Service Rep,San Francisco,USA,2019-08-14,179359,sarah.moore272@company.com,3.4,Yes
+EMP0273,Sarah,Harris,55,Male,Marketing,Marketing Manager,Manchester,UK,2010-07-26,129139,sarah.harris273@company.com,3.4,No
+EMP0274,Daniel,Torres,39,Male,Legal,Paralegal,Pune,India,2010-06-20,92414,daniel.torres274@company.com,2.1,No
+EMP0275,Patricia,Walker,32,Male,Legal,Paralegal,Toronto,Canada,2017-11-08,104868,patricia.walker275@company.com,3.6,Yes
+EMP0276,Edward,Anderson,33,Male,R&D,Data Scientist,Mumbai,India,2017-10-11,129052,edward.anderson276@company.com,4.7,Yes
+EMP0277,Amanda,Rao,58,Male,Operations,Logistics Coordinator,Boston,USA,2025-09-10,81021,amanda.rao277@company.com,3.5,Yes
+EMP0278,Patricia,Anderson,55,Female,R&D,Research Scientist,New York,USA,2010-06-20,87812,patricia.anderson278@company.com,4.4,No
+EMP0279,Amanda,Lopez,31,Other,Operations,Operations Analyst,New York,USA,2014-02-28,172965,amanda.lopez279@company.com,4.6,Yes
+EMP0280,Lisa,Gupta,43,Female,IT Support,Systems Administrator,Austin,USA,2020-03-06,149522,lisa.gupta280@company.com,4.4,No
+EMP0281,Michelle,Lee,59,Male,Marketing,SEO Analyst,Toronto,Canada,2022-05-24,112205,michelle.lee281@company.com,2.4,Yes
+EMP0282,Brian,Torres,33,Other,IT Support,Systems Administrator,San Francisco,USA,2020-10-08,62291,brian.torres282@company.com,4.8,Yes
+EMP0283,Nancy,Jones,32,Other,HR,HR Manager,Hyderabad,India,2012-12-22,123014,nancy.jones283@company.com,3.3,No
+EMP0284,Susan,Thomas,28,Other,Sales,Sales Manager,Vancouver,Canada,2010-01-13,149876,susan.thomas284@company.com,4.2,Yes
+EMP0285,Vikram,Clark,56,Female,Customer Service,Support Lead,Mumbai,India,2013-08-26,94135,vikram.clark285@company.com,2.5,Yes
+EMP0286,Priya,Williams,38,Male,Finance,Financial Analyst,Hyderabad,India,2012-06-06,133424,priya.williams286@company.com,2.5,Yes
+EMP0287,Kimberly,Garcia,23,Female,Operations,Logistics Coordinator,Singapore,Singapore,2015-10-14,76183,kimberly.garcia287@company.com,2.2,No
+EMP0288,Susan,Gonzalez,40,Female,IT Support,Systems Administrator,Vancouver,Canada,2017-02-02,137996,susan.gonzalez288@company.com,3.7,No
+EMP0289,Elizabeth,Brown,27,Female,Operations,Operations Analyst,Berlin,Germany,2025-04-04,41746,elizabeth.brown289@company.com,2.6,No
+EMP0290,Jennifer,Walker,52,Female,Sales,Sales Manager,Pune,India,2018-02-21,177639,jennifer.walker290@company.com,3.2,No
+EMP0291,Vikram,Harris,24,Female,Operations,Operations Analyst,Sydney,Australia,2024-08-09,94308,vikram.harris291@company.com,4.5,Yes
+EMP0292,Elizabeth,Rao,56,Female,Sales,Sales Executive,Mumbai,India,2017-09-02,136477,elizabeth.rao292@company.com,4.5,No
+EMP0293,Paul,Singh,52,Female,Customer Service,Customer Success Manager,Toronto,Canada,2012-07-28,44103,paul.singh293@company.com,3.5,Yes
+EMP0294,Linda,Lewis,34,Male,Marketing,Content Strategist,Manchester,UK,2011-07-03,149135,linda.lewis294@company.com,2.6,Yes
+EMP0295,Sneha,Sharma,27,Female,Finance,Finance Manager,Chicago,USA,2022-09-11,107404,sneha.sharma295@company.com,3.6,Yes
+EMP0296,Ravi,Rao,29,Female,R&D,Product Researcher,Berlin,Germany,2014-03-19,61267,ravi.rao296@company.com,4.8,Yes
+EMP0297,Ravi,Jackson,38,Female,Legal,Paralegal,Berlin,Germany,2025-10-20,159006,ravi.jackson297@company.com,2.1,No
+EMP0298,Margaret,Martinez,24,Female,R&D,Product Researcher,Pune,India,2020-12-08,47921,margaret.martinez298@company.com,4.2,No
+EMP0299,Anjali,White,41,Female,Engineering,DevOps Engineer,Bengaluru,India,2025-12-22,60747,anjali.white299@company.com,4.9,Yes
+EMP0300,William,Martin,48,Other,Customer Service,Support Lead,Vancouver,Canada,2012-04-15,90414,william.martin300@company.com,4.7,No
+EMP0301,Melissa,Young,54,Male,Legal,Paralegal,San Francisco,USA,2012-05-23,167853,melissa.young301@company.com,3.2,Yes
+EMP0302,Barbara,Gonzalez,24,Female,HR,HR Generalist,Toronto,Canada,2011-06-23,87195,barbara.gonzalez302@company.com,2.8,No
+EMP0303,Steven,Sanchez,45,Female,Sales,Sales Executive,Toronto,Canada,2024-03-28,159408,steven.sanchez303@company.com,3.8,No
+EMP0304,Daniel,Hernandez,23,Female,Finance,Financial Analyst,Bengaluru,India,2011-03-28,91182,daniel.hernandez304@company.com,4.6,Yes
+EMP0305,Carol,Wilson,22,Female,Finance,Auditor,New York,USA,2014-11-06,37218,carol.wilson305@company.com,2.7,No
+EMP0306,Amanda,Kumar,44,Female,Finance,Auditor,Pune,India,2018-04-15,114205,amanda.kumar306@company.com,4.0,No
+EMP0307,Emily,Miller,57,Other,Engineering,Engineering Manager,Mumbai,India,2019-05-22,63338,emily.miller307@company.com,3.4,No
+EMP0308,Sarah,Reddy,41,Male,Operations,Operations Manager,Vancouver,Canada,2014-09-25,97993,sarah.reddy308@company.com,4.7,No
+EMP0309,Kevin,Lee,40,Female,Marketing,Marketing Specialist,Singapore,Singapore,2023-07-13,44258,kevin.lee309@company.com,3.7,Yes
+EMP0310,Nancy,Anderson,44,Other,Legal,Compliance Officer,Singapore,Singapore,2019-03-27,82483,nancy.anderson310@company.com,2.9,No
+EMP0311,William,Taylor,27,Male,Legal,Legal Counsel,Hyderabad,India,2021-04-24,115500,william.taylor311@company.com,3.3,No
+EMP0312,Lisa,Taylor,29,Female,R&D,Data Scientist,Sydney,Australia,2011-11-19,53668,lisa.taylor312@company.com,3.4,Yes
+EMP0313,Steven,Davis,48,Male,IT Support,Systems Administrator,Bengaluru,India,2014-03-07,124828,steven.davis313@company.com,3.2,No
+EMP0314,Elizabeth,Lee,43,Other,Marketing,Marketing Specialist,Singapore,Singapore,2015-06-21,50207,elizabeth.lee314@company.com,2.0,No
+EMP0315,Susan,Hernandez,27,Male,R&D,Research Scientist,Singapore,Singapore,2023-11-14,140747,susan.hernandez315@company.com,3.3,No
+EMP0316,Matthew,Smith,45,Male,Engineering,Engineering Manager,Manchester,UK,2020-09-07,39696,matthew.smith316@company.com,4.0,Yes
+EMP0317,Joseph,Rao,28,Female,Operations,Operations Manager,Boston,USA,2019-03-03,46984,joseph.rao317@company.com,2.9,No
+EMP0318,Sandra,King,49,Other,R&D,Product Researcher,Hyderabad,India,2014-06-16,129175,sandra.king318@company.com,4.3,Yes
+EMP0319,Rahul,Sanchez,30,Male,Engineering,Senior Software Engineer,Toronto,Canada,2010-10-17,79298,rahul.sanchez319@company.com,2.4,Yes
+EMP0320,Matthew,Reddy,28,Other,Finance,Financial Analyst,San Francisco,USA,2010-01-23,65353,matthew.reddy320@company.com,3.3,No
+EMP0321,Linda,Scott,35,Other,Finance,Auditor,Boston,USA,2010-05-14,61471,linda.scott321@company.com,4.0,No
+EMP0322,Donna,Sharma,54,Other,Marketing,Marketing Manager,Austin,USA,2013-05-04,62856,donna.sharma322@company.com,3.5,Yes
+EMP0323,Deborah,Taylor,48,Female,Legal,Legal Counsel,Mumbai,India,2015-01-18,165116,deborah.taylor323@company.com,4.7,No
+EMP0324,Nancy,Thomas,29,Other,Engineering,Software Engineer,Chicago,USA,2025-03-03,169140,nancy.thomas324@company.com,2.2,Yes
+EMP0325,Anjali,Taylor,38,Female,HR,Payroll Specialist,Bengaluru,India,2011-02-27,80797,anjali.taylor325@company.com,4.6,No
+EMP0326,Lisa,Singh,28,Male,Operations,Operations Manager,Austin,USA,2010-03-22,79698,lisa.singh326@company.com,3.0,No
+EMP0327,Donna,Moore,33,Male,Sales,Sales Manager,Hyderabad,India,2022-07-15,106259,donna.moore327@company.com,4.5,No
+EMP0328,Priya,Clark,25,Male,Marketing,Marketing Specialist,Boston,USA,2013-07-19,161530,priya.clark328@company.com,4.4,No
+EMP0329,Barbara,Patel,30,Female,IT Support,Network Administrator,New York,USA,2025-02-14,150523,barbara.patel329@company.com,2.1,No
+EMP0330,Michelle,Lee,43,Other,Engineering,Engineering Manager,Toronto,Canada,2013-07-22,100162,michelle.lee330@company.com,3.4,No
+EMP0331,Elizabeth,Scott,32,Other,R&D,Research Scientist,New York,USA,2025-08-28,78359,elizabeth.scott331@company.com,2.2,No
+EMP0332,Christopher,Thomas,54,Male,Operations,Operations Manager,San Francisco,USA,2022-07-27,96603,christopher.thomas332@company.com,2.2,No
+EMP0333,Priya,Torres,50,Female,Customer Service,Customer Service Rep,Singapore,Singapore,2013-08-24,39658,priya.torres333@company.com,2.3,No
+EMP0334,John,Scott,60,Other,Legal,Legal Counsel,Chicago,USA,2019-09-18,89224,john.scott334@company.com,4.0,No
+EMP0335,Nancy,White,43,Other,Engineering,Senior Software Engineer,Sydney,Australia,2025-12-22,130235,nancy.white335@company.com,4.1,Yes
+EMP0336,Michael,Gupta,44,Other,HR,HR Generalist,Hyderabad,India,2019-09-17,133013,michael.gupta336@company.com,4.1,Yes
+EMP0337,Anjali,Hernandez,28,Female,Customer Service,Customer Service Rep,Berlin,Germany,2016-04-04,137995,anjali.hernandez337@company.com,2.6,Yes
+EMP0338,Amanda,Perez,59,Male,Sales,Business Development Rep,San Francisco,USA,2024-08-22,167172,amanda.perez338@company.com,2.4,No
+EMP0339,James,King,59,Female,Engineering,Engineering Manager,Berlin,Germany,2015-12-19,80521,james.king339@company.com,4.2,Yes
+EMP0340,Michael,Harris,54,Female,R&D,Product Researcher,Hyderabad,India,2023-10-23,100074,michael.harris340@company.com,2.8,No
+EMP0341,Charles,Lewis,60,Other,Marketing,Content Strategist,Berlin,Germany,2019-12-18,117289,charles.lewis341@company.com,4.1,Yes
+EMP0342,Richard,Wilson,44,Other,R&D,Product Researcher,Bengaluru,India,2014-12-21,81612,richard.wilson342@company.com,3.5,No
+EMP0343,Amanda,Davis,59,Other,Operations,Logistics Coordinator,Singapore,Singapore,2023-11-24,174959,amanda.davis343@company.com,2.9,No
+EMP0344,Priya,Smith,46,Male,Legal,Legal Counsel,New York,USA,2011-11-02,87403,priya.smith344@company.com,2.8,Yes
+EMP0345,Charles,Singh,40,Male,Finance,Accountant,San Francisco,USA,2011-06-27,153644,charles.singh345@company.com,2.3,Yes
+EMP0346,Melissa,Kumar,54,Other,Legal,Paralegal,Toronto,Canada,2019-12-22,47315,melissa.kumar346@company.com,4.8,No
+EMP0347,Anthony,Singh,22,Other,Operations,Logistics Coordinator,San Francisco,USA,2018-04-20,151146,anthony.singh347@company.com,4.5,No
+EMP0348,Edward,Nair,34,Female,Legal,Compliance Officer,Manchester,UK,2024-03-22,54521,edward.nair348@company.com,2.6,Yes
+EMP0349,Melissa,Allen,49,Female,Sales,Business Development Rep,San Francisco,USA,2018-03-06,101850,melissa.allen349@company.com,2.0,No
+EMP0350,Amanda,Martinez,60,Male,Engineering,Senior Software Engineer,Hyderabad,India,2019-08-26,179221,amanda.martinez350@company.com,3.1,No
+EMP0351,Dorothy,Anderson,48,Other,Marketing,Marketing Specialist,London,UK,2022-02-12,92985,dorothy.anderson351@company.com,4.7,No
+EMP0352,Nancy,White,57,Other,Finance,Accountant,Singapore,Singapore,2010-02-22,125703,nancy.white352@company.com,3.3,Yes
+EMP0353,John,Singh,46,Female,Operations,Operations Manager,Austin,USA,2019-01-17,133293,john.singh353@company.com,3.5,No
+EMP0354,Ashley,Williams,54,Male,Finance,Accountant,Hyderabad,India,2013-03-25,176026,ashley.williams354@company.com,3.6,Yes
+EMP0355,Susan,Gupta,35,Other,HR,Payroll Specialist,Austin,USA,2023-11-27,53905,susan.gupta355@company.com,4.2,Yes
+EMP0356,Mary,Robinson,26,Male,Operations,Operations Analyst,Chicago,USA,2015-05-18,53465,mary.robinson356@company.com,3.7,Yes
+EMP0357,Rahul,Taylor,47,Female,IT Support,Network Administrator,Sydney,Australia,2020-01-13,66013,rahul.taylor357@company.com,3.6,Yes
+EMP0358,Edward,Nair,54,Male,Engineering,Software Engineer,Mumbai,India,2019-11-10,57676,edward.nair358@company.com,2.8,No
+EMP0359,Matthew,Sanchez,56,Male,Engineering,QA Engineer,London,UK,2014-12-13,178058,matthew.sanchez359@company.com,2.9,Yes
+EMP0360,Karen,Singh,29,Male,Operations,Operations Analyst,Boston,USA,2010-10-20,138306,karen.singh360@company.com,3.6,Yes
+EMP0361,Karen,Wilson,54,Male,Operations,Operations Analyst,Berlin,Germany,2015-03-08,101254,karen.wilson361@company.com,2.6,Yes
+EMP0362,Kevin,Torres,57,Male,Engineering,Engineering Manager,Sydney,Australia,2019-11-03,100716,kevin.torres362@company.com,2.3,No
+EMP0363,Nancy,Thompson,40,Other,Marketing,Content Strategist,Austin,USA,2012-04-11,162365,nancy.thompson363@company.com,3.4,No
+EMP0364,Brian,Nair,49,Male,Marketing,SEO Analyst,Hyderabad,India,2010-06-08,93071,brian.nair364@company.com,4.1,No
+EMP0365,Sarah,White,51,Female,Marketing,SEO Analyst,Singapore,Singapore,2021-05-16,179617,sarah.white365@company.com,2.3,Yes
+EMP0366,Sneha,Moore,26,Other,Marketing,Content Strategist,Vancouver,Canada,2012-01-28,167953,sneha.moore366@company.com,3.9,No
+EMP0367,Deborah,Nair,56,Other,HR,HR Generalist,Vancouver,Canada,2025-11-25,73963,deborah.nair367@company.com,3.1,Yes
+EMP0368,Anjali,Nair,54,Other,Finance,Accountant,Sydney,Australia,2012-07-12,166640,anjali.nair368@company.com,2.0,Yes
+EMP0369,Arjun,Patel,32,Male,Marketing,Content Strategist,Sydney,Australia,2014-12-24,161747,arjun.patel369@company.com,4.8,Yes
+EMP0370,Joseph,Young,45,Male,HR,HR Generalist,Vancouver,Canada,2011-11-07,170760,joseph.young370@company.com,4.7,No
+EMP0371,Matthew,Walker,42,Male,Customer Service,Customer Service Rep,San Francisco,USA,2018-12-09,177698,matthew.walker371@company.com,3.7,No
+EMP0372,Michelle,Harris,55,Female,Operations,Logistics Coordinator,Chicago,USA,2022-04-17,141389,michelle.harris372@company.com,3.1,No
+EMP0373,Ashley,Walker,50,Male,R&D,Research Scientist,Boston,USA,2017-02-17,108612,ashley.walker373@company.com,2.6,Yes
+EMP0374,David,White,36,Female,R&D,Product Researcher,Austin,USA,2020-12-04,161226,david.white374@company.com,4.0,No
+EMP0375,Susan,Nair,37,Male,Marketing,Marketing Manager,New York,USA,2014-10-19,77239,susan.nair375@company.com,2.4,Yes
+EMP0376,Anjali,Torres,38,Male,Marketing,Marketing Specialist,London,UK,2022-10-19,39881,anjali.torres376@company.com,4.6,No
+EMP0377,Jennifer,Wilson,52,Male,Customer Service,Customer Success Manager,Singapore,Singapore,2017-07-20,72411,jennifer.wilson377@company.com,4.4,Yes
+EMP0378,Donna,Gupta,43,Female,Legal,Paralegal,London,UK,2012-04-13,136046,donna.gupta378@company.com,2.4,Yes
+EMP0379,Richard,King,31,Other,Legal,Compliance Officer,Berlin,Germany,2013-03-16,45233,richard.king379@company.com,4.6,Yes
+EMP0380,Jennifer,Walker,55,Female,Marketing,Marketing Specialist,Berlin,Germany,2021-01-23,173888,jennifer.walker380@company.com,3.3,No
+EMP0381,Ravi,Harris,49,Male,Operations,Logistics Coordinator,Austin,USA,2018-08-25,95951,ravi.harris381@company.com,4.7,Yes
+EMP0382,Charles,Sharma,34,Male,Legal,Paralegal,Vancouver,Canada,2010-10-17,65888,charles.sharma382@company.com,3.6,No
+EMP0383,Michelle,Wilson,28,Male,Operations,Operations Manager,Mumbai,India,2023-11-19,101488,michelle.wilson383@company.com,2.8,No
+EMP0384,Andrew,White,35,Female,R&D,Data Scientist,Pune,India,2025-03-12,161814,andrew.white384@company.com,2.8,No
+EMP0385,Andrew,Thompson,29,Other,IT Support,Systems Administrator,Boston,USA,2017-08-26,77413,andrew.thompson385@company.com,2.3,No
+EMP0386,Ravi,Perez,32,Female,Legal,Compliance Officer,San Francisco,USA,2010-02-27,73096,ravi.perez386@company.com,3.4,No
+EMP0387,Jennifer,Jones,27,Other,Finance,Accountant,Mumbai,India,2011-12-13,140026,jennifer.jones387@company.com,3.8,No
+EMP0388,Amanda,Sharma,50,Male,Engineering,Senior Software Engineer,Singapore,Singapore,2016-11-26,170830,amanda.sharma388@company.com,2.9,Yes
+EMP0389,Ravi,Sharma,32,Other,Legal,Compliance Officer,Toronto,Canada,2011-06-08,35075,ravi.sharma389@company.com,4.9,Yes
+EMP0390,Sarah,Sanchez,47,Other,Operations,Logistics Coordinator,Pune,India,2016-09-01,52987,sarah.sanchez390@company.com,4.8,No
+EMP0391,George,Scott,39,Male,R&D,Data Scientist,Mumbai,India,2016-08-13,36219,george.scott391@company.com,2.8,No
+EMP0392,Steven,Miller,43,Male,Legal,Legal Counsel,Bengaluru,India,2018-09-27,100573,steven.miller392@company.com,4.1,No
+EMP0393,Andrew,Walker,51,Other,HR,HR Manager,Sydney,Australia,2010-08-04,102585,andrew.walker393@company.com,2.2,Yes
+EMP0394,Carol,Rao,44,Other,HR,HR Manager,Berlin,Germany,2010-12-27,104035,carol.rao394@company.com,2.7,Yes
+EMP0395,Margaret,Singh,52,Female,Operations,Operations Analyst,London,UK,2021-04-19,105536,margaret.singh395@company.com,2.5,Yes
+EMP0396,Ashley,Gonzalez,35,Male,HR,Recruiter,Vancouver,Canada,2016-04-27,128330,ashley.gonzalez396@company.com,2.5,Yes
+EMP0397,Linda,Garcia,56,Male,Customer Service,Customer Success Manager,New York,USA,2025-06-20,117684,linda.garcia397@company.com,3.5,No
+EMP0398,Ashley,Lopez,36,Other,Legal,Paralegal,Pune,India,2014-01-17,145933,ashley.lopez398@company.com,3.4,Yes
+EMP0399,Steven,Thompson,51,Male,IT Support,Systems Administrator,London,UK,2024-06-23,37206,steven.thompson399@company.com,2.0,Yes
+EMP0400,Matthew,Nair,38,Male,Sales,Sales Manager,Mumbai,India,2018-04-09,158560,matthew.nair400@company.com,4.9,No
+EMP0401,Lisa,Lopez,48,Other,Customer Service,Support Lead,Manchester,UK,2021-06-28,140012,lisa.lopez401@company.com,2.8,Yes
+EMP0402,Andrew,Rodriguez,28,Other,R&D,Product Researcher,Toronto,Canada,2018-04-18,148303,andrew.rodriguez402@company.com,4.6,Yes
+EMP0403,Elizabeth,Martinez,48,Female,Customer Service,Customer Service Rep,London,UK,2014-11-17,174980,elizabeth.martinez403@company.com,4.2,No
+EMP0404,Karen,Taylor,47,Male,Legal,Compliance Officer,San Francisco,USA,2015-01-07,101660,karen.taylor404@company.com,3.4,Yes
+EMP0405,Mark,Perez,57,Other,Finance,Finance Manager,Mumbai,India,2018-06-01,142940,mark.perez405@company.com,2.4,Yes
+EMP0406,Andrew,Torres,44,Female,Legal,Legal Counsel,Bengaluru,India,2025-12-15,55554,andrew.torres406@company.com,3.1,No
+EMP0407,Sandra,Reddy,48,Other,Marketing,Content Strategist,Hyderabad,India,2022-02-03,77467,sandra.reddy407@company.com,3.0,No
+EMP0408,Christopher,Kumar,39,Female,Finance,Finance Manager,Pune,India,2021-12-19,171560,christopher.kumar408@company.com,4.9,No
+EMP0409,David,Lopez,38,Other,Engineering,Senior Software Engineer,Toronto,Canada,2012-04-06,139083,david.lopez409@company.com,2.3,Yes
+EMP0410,Kavya,Walker,47,Other,Legal,Legal Counsel,New York,USA,2012-02-09,75704,kavya.walker410@company.com,2.3,No
+EMP0411,Karen,Anderson,30,Male,HR,HR Manager,Sydney,Australia,2015-01-02,128543,karen.anderson411@company.com,4.6,No
+EMP0412,Pooja,Walker,57,Female,Customer Service,Customer Success Manager,Vancouver,Canada,2014-12-18,81409,pooja.walker412@company.com,3.8,No
+EMP0413,Kenneth,Reddy,44,Female,R&D,Data Scientist,Bengaluru,India,2017-02-15,115705,kenneth.reddy413@company.com,3.1,No
+EMP0414,Elizabeth,Martin,44,Female,Engineering,Software Engineer,Boston,USA,2025-09-01,163956,elizabeth.martin414@company.com,4.8,No
+EMP0415,Karen,Smith,22,Other,IT Support,Network Administrator,Toronto,Canada,2021-04-14,149584,karen.smith415@company.com,3.2,Yes
+EMP0416,Amanda,Kumar,38,Male,IT Support,Network Administrator,Toronto,Canada,2023-11-08,170426,amanda.kumar416@company.com,4.3,No
+EMP0417,Charles,Kumar,34,Male,Legal,Paralegal,Berlin,Germany,2015-03-10,63929,charles.kumar417@company.com,3.9,No
+EMP0418,Sarah,Rao,42,Male,R&D,Data Scientist,Manchester,UK,2014-01-18,40801,sarah.rao418@company.com,2.6,Yes
+EMP0419,Charles,Moore,36,Male,Marketing,Marketing Manager,New York,USA,2014-01-16,91934,charles.moore419@company.com,3.0,No
+EMP0420,Ravi,Young,43,Male,Operations,Operations Manager,San Francisco,USA,2014-01-09,137871,ravi.young420@company.com,2.2,No
+EMP0421,Barbara,Gonzalez,29,Other,Finance,Auditor,New York,USA,2017-07-25,151119,barbara.gonzalez421@company.com,2.7,Yes
+EMP0422,Richard,Robinson,46,Other,Sales,Account Manager,Singapore,Singapore,2019-06-06,46058,richard.robinson422@company.com,4.2,Yes
+EMP0423,Thomas,Walker,25,Other,Finance,Accountant,Mumbai,India,2016-02-08,148812,thomas.walker423@company.com,3.0,Yes
+EMP0424,Ravi,Moore,37,Male,R&D,Research Scientist,Pune,India,2011-10-26,159589,ravi.moore424@company.com,4.1,Yes
+EMP0425,Lisa,Garcia,27,Other,HR,Recruiter,Singapore,Singapore,2020-11-02,50669,lisa.garcia425@company.com,3.1,Yes
+EMP0426,Brian,Wright,36,Female,Sales,Account Manager,Singapore,Singapore,2021-08-24,85584,brian.wright426@company.com,2.1,No
+EMP0427,Daniel,Rodriguez,50,Other,Finance,Financial Analyst,Singapore,Singapore,2019-09-23,163474,daniel.rodriguez427@company.com,2.6,Yes
+EMP0428,Paul,Thompson,39,Other,Operations,Logistics Coordinator,Sydney,Australia,2015-02-17,75638,paul.thompson428@company.com,3.3,No
+EMP0429,Paul,White,33,Male,Customer Service,Customer Service Rep,Pune,India,2021-10-08,119068,paul.white429@company.com,4.2,No
+EMP0430,Richard,King,40,Female,Customer Service,Customer Success Manager,Boston,USA,2023-11-11,63957,richard.king430@company.com,2.3,Yes
+EMP0431,John,Rodriguez,28,Female,Marketing,Marketing Specialist,Manchester,UK,2016-02-02,136868,john.rodriguez431@company.com,4.0,No
+EMP0432,Patricia,White,35,Other,HR,HR Generalist,New York,USA,2025-02-15,50912,patricia.white432@company.com,3.1,No
+EMP0433,Amit,White,55,Male,Engineering,Engineering Manager,Vancouver,Canada,2012-05-03,91596,amit.white433@company.com,4.9,Yes
+EMP0434,Michael,Anderson,34,Other,Legal,Paralegal,Manchester,UK,2017-10-21,81897,michael.anderson434@company.com,3.7,No
+EMP0435,Melissa,Miller,49,Male,R&D,Data Scientist,Sydney,Australia,2015-03-18,140265,melissa.miller435@company.com,3.5,Yes
+EMP0436,Paul,Sharma,57,Female,Customer Service,Support Lead,Hyderabad,India,2021-07-25,147876,paul.sharma436@company.com,4.5,No
+EMP0437,Joshua,Thomas,46,Other,R&D,Product Researcher,Manchester,UK,2018-06-15,152309,joshua.thomas437@company.com,4.9,Yes
+EMP0438,George,Williams,41,Male,Finance,Financial Analyst,Boston,USA,2019-04-07,117550,george.williams438@company.com,2.1,No
+EMP0439,Rahul,Scott,28,Male,Legal,Compliance Officer,Boston,USA,2024-06-05,71282,rahul.scott439@company.com,2.8,Yes
+EMP0440,Joseph,Taylor,58,Male,Finance,Financial Analyst,Pune,India,2012-12-11,161493,joseph.taylor440@company.com,2.5,Yes
+EMP0441,Joshua,Kumar,27,Male,Finance,Financial Analyst,Pune,India,2020-06-27,148850,joshua.kumar441@company.com,3.2,Yes
+EMP0442,Pooja,Anderson,25,Female,R&D,Research Scientist,Pune,India,2011-06-18,74211,pooja.anderson442@company.com,3.0,Yes
+EMP0443,Elizabeth,Brown,36,Female,IT Support,Network Administrator,Chicago,USA,2019-07-05,69652,elizabeth.brown443@company.com,3.0,No
+EMP0444,Andrew,Brown,27,Female,Legal,Paralegal,Vancouver,Canada,2023-12-05,70355,andrew.brown444@company.com,3.4,Yes
+EMP0445,Ashley,Sanchez,37,Male,R&D,Research Scientist,Toronto,Canada,2018-07-11,58486,ashley.sanchez445@company.com,2.3,No
+EMP0446,Betty,White,44,Other,Operations,Operations Analyst,Hyderabad,India,2010-05-06,126676,betty.white446@company.com,3.8,No
+EMP0447,Donna,Martinez,34,Other,Customer Service,Customer Service Rep,Toronto,Canada,2021-03-25,57495,donna.martinez447@company.com,2.3,Yes
+EMP0448,Jessica,Patel,43,Other,Marketing,SEO Analyst,New York,USA,2013-05-15,158519,jessica.patel448@company.com,2.1,Yes
+EMP0449,Melissa,Wright,57,Female,HR,Recruiter,Vancouver,Canada,2014-12-23,39820,melissa.wright449@company.com,3.1,Yes
+EMP0450,Thomas,Hernandez,39,Male,Engineering,DevOps Engineer,Manchester,UK,2024-11-01,52458,thomas.hernandez450@company.com,3.2,No
+EMP0451,Kevin,Gupta,40,Other,Operations,Operations Analyst,New York,USA,2022-04-13,168310,kevin.gupta451@company.com,4.9,Yes
+EMP0452,Anjali,Lee,33,Male,Customer Service,Customer Success Manager,Chicago,USA,2024-09-23,40633,anjali.lee452@company.com,2.1,No
+EMP0453,Nancy,Young,23,Female,IT Support,Systems Administrator,London,UK,2021-06-21,114253,nancy.young453@company.com,2.7,No
+EMP0454,Priya,Brown,57,Female,Finance,Auditor,New York,USA,2017-03-11,137982,priya.brown454@company.com,4.0,Yes
+EMP0455,George,Harris,48,Male,Legal,Compliance Officer,Toronto,Canada,2014-07-10,121320,george.harris455@company.com,3.3,Yes
+EMP0456,Susan,Kumar,41,Other,Marketing,Content Strategist,Boston,USA,2014-07-25,73050,susan.kumar456@company.com,4.0,Yes
+EMP0457,Christopher,Jones,33,Female,Legal,Compliance Officer,Austin,USA,2014-12-01,118542,christopher.jones457@company.com,4.6,No
+EMP0458,Anthony,Martin,31,Male,Customer Service,Customer Success Manager,Vancouver,Canada,2013-03-06,41867,anthony.martin458@company.com,4.3,No
+EMP0459,Joshua,Torres,36,Other,R&D,Research Scientist,Toronto,Canada,2010-06-03,159938,joshua.torres459@company.com,2.4,No
+EMP0460,Amanda,Kumar,53,Female,Operations,Operations Analyst,Pune,India,2014-03-07,94316,amanda.kumar460@company.com,2.1,Yes
+EMP0461,Kavya,Moore,35,Male,IT Support,IT Support Specialist,Manchester,UK,2015-08-28,163435,kavya.moore461@company.com,4.1,No
+EMP0462,Vikram,Thomas,60,Other,IT Support,Network Administrator,San Francisco,USA,2022-12-11,138324,vikram.thomas462@company.com,3.8,Yes
+EMP0463,Dorothy,Miller,37,Other,Customer Service,Support Lead,San Francisco,USA,2022-12-02,136554,dorothy.miller463@company.com,3.5,Yes
+EMP0464,Richard,Jackson,40,Female,Customer Service,Support Lead,Bengaluru,India,2015-07-10,49299,richard.jackson464@company.com,4.1,Yes
+EMP0465,Sandra,Kumar,33,Other,Customer Service,Customer Service Rep,Austin,USA,2014-07-14,119793,sandra.kumar465@company.com,3.4,Yes
+EMP0466,Sandra,Nair,38,Female,HR,Payroll Specialist,Chicago,USA,2015-12-24,67386,sandra.nair466@company.com,2.3,No
+EMP0467,Kenneth,White,46,Other,Sales,Business Development Rep,London,UK,2022-01-25,79796,kenneth.white467@company.com,4.7,Yes
+EMP0468,David,Martinez,41,Female,Marketing,Marketing Specialist,Berlin,Germany,2024-05-21,82368,david.martinez468@company.com,2.4,Yes
+EMP0469,Richard,Smith,51,Female,R&D,Data Scientist,New York,USA,2025-09-26,36507,richard.smith469@company.com,3.8,No
+EMP0470,Jessica,Wilson,51,Female,R&D,Product Researcher,Singapore,Singapore,2024-02-20,36723,jessica.wilson470@company.com,2.7,No
+EMP0471,Donna,Reddy,33,Male,Legal,Legal Counsel,San Francisco,USA,2011-11-12,44626,donna.reddy471@company.com,2.4,Yes
+EMP0472,Kevin,Torres,27,Male,R&D,Data Scientist,Hyderabad,India,2013-07-06,77293,kevin.torres472@company.com,4.0,Yes
+EMP0473,Sandra,Nair,41,Female,Operations,Operations Analyst,Chicago,USA,2021-07-27,52738,sandra.nair473@company.com,4.3,Yes
+EMP0474,Charles,Walker,43,Other,Marketing,Marketing Specialist,Vancouver,Canada,2023-09-07,89801,charles.walker474@company.com,3.8,Yes
+EMP0475,Andrew,Reddy,60,Other,Legal,Legal Counsel,Singapore,Singapore,2019-07-20,117965,andrew.reddy475@company.com,2.8,No
+EMP0476,Kavya,Rodriguez,55,Other,R&D,Product Researcher,Singapore,Singapore,2025-08-26,82161,kavya.rodriguez476@company.com,4.7,Yes
+EMP0477,Amanda,Jackson,23,Female,HR,HR Generalist,Austin,USA,2013-12-28,89350,amanda.jackson477@company.com,4.4,No
+EMP0478,Anthony,Williams,22,Other,Operations,Operations Manager,Manchester,UK,2016-12-10,101694,anthony.williams478@company.com,4.4,No
+EMP0479,Karen,Allen,29,Other,Legal,Paralegal,New York,USA,2020-06-13,42632,karen.allen479@company.com,4.5,Yes
+EMP0480,Nancy,Perez,30,Female,Customer Service,Support Lead,San Francisco,USA,2014-11-15,175762,nancy.perez480@company.com,4.7,No
+EMP0481,Ravi,Clark,58,Other,Engineering,Engineering Manager,Bengaluru,India,2020-09-18,39906,ravi.clark481@company.com,2.6,No
+EMP0482,Priya,Thompson,23,Female,Sales,Account Manager,Vancouver,Canada,2022-11-18,78507,priya.thompson482@company.com,3.7,No
+EMP0483,Barbara,Sharma,24,Female,Sales,Sales Manager,Hyderabad,India,2023-02-16,97296,barbara.sharma483@company.com,3.1,No
+EMP0484,Susan,King,45,Male,Finance,Accountant,Austin,USA,2016-02-15,167643,susan.king484@company.com,2.1,No
+EMP0485,Anjali,Allen,52,Other,Marketing,Content Strategist,Hyderabad,India,2019-06-05,60756,anjali.allen485@company.com,4.5,Yes
+EMP0486,Susan,Williams,22,Female,Customer Service,Support Lead,Austin,USA,2011-11-28,57826,susan.williams486@company.com,3.0,Yes
+EMP0487,Michael,King,35,Female,Finance,Financial Analyst,Bengaluru,India,2016-04-10,107522,michael.king487@company.com,3.6,No
+EMP0488,Kevin,Davis,39,Male,Finance,Accountant,London,UK,2010-10-18,169757,kevin.davis488@company.com,2.3,No
+EMP0489,Kimberly,Lee,58,Male,Finance,Accountant,Bengaluru,India,2015-02-10,123798,kimberly.lee489@company.com,3.6,Yes
+EMP0490,William,Johnson,28,Female,Customer Service,Customer Success Manager,San Francisco,USA,2011-02-14,137738,william.johnson490@company.com,2.5,No
+EMP0491,Donna,Thompson,56,Male,Finance,Finance Manager,Manchester,UK,2024-10-05,59357,donna.thompson491@company.com,4.4,No
+EMP0492,Michael,Robinson,36,Male,Finance,Auditor,Singapore,Singapore,2014-10-09,130276,michael.robinson492@company.com,3.2,No
+EMP0493,Ravi,Lee,26,Female,Customer Service,Support Lead,New York,USA,2013-06-16,155911,ravi.lee493@company.com,4.5,No
+EMP0494,Deborah,Thompson,54,Male,R&D,Product Researcher,Boston,USA,2022-12-26,63044,deborah.thompson494@company.com,3.0,Yes
+EMP0495,Ravi,Martin,59,Female,Legal,Paralegal,Pune,India,2017-10-08,178641,ravi.martin495@company.com,2.5,No
+EMP0496,Matthew,Jones,49,Other,Operations,Operations Analyst,Berlin,Germany,2020-09-23,96906,matthew.jones496@company.com,2.5,Yes
+EMP0497,Melissa,Torres,42,Other,Customer Service,Customer Service Rep,Sydney,Australia,2013-08-06,115749,melissa.torres497@company.com,4.9,Yes
+EMP0498,Joshua,Miller,53,Other,R&D,Data Scientist,Hyderabad,India,2011-02-07,71416,joshua.miller498@company.com,4.7,Yes
+EMP0499,Edward,Martinez,46,Other,Marketing,Marketing Manager,Bengaluru,India,2024-04-07,117994,edward.martinez499@company.com,2.9,No
+EMP0500,Rahul,Ramirez,54,Female,Operations,Operations Analyst,New York,USA,2014-05-02,131789,rahul.ramirez500@company.com,4.7,Yes
